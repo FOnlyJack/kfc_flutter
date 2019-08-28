@@ -25,7 +25,7 @@
 ## 应用截图
 
 | <img src="/screenshot/MyVideo_1.gif" width="280" alt="首页"/> | <img src="/screenshot/MyVideo_2.gif" width="280" alt="首页"/> | <img src="/screenshot/MyVideo_3.gif" width="280" alt="首页"/> |
-| :--: |
+| :--: | :--: | :--: |
 | 首页 | 
 
 | <img src="/screenshot/MyVideo_4.gif" width="280" height="498" alt="外送点餐"/> | 
