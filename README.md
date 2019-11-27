@@ -1,7 +1,6 @@
 ## 前言
 
 - Flutter版仿KFC客户端部分小练习。
-- [项目地址](https://github.com/FOnlyJack/kfc_flutter)
 
 ##  APP下载
 
