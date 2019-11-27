@@ -62,6 +62,7 @@ flutter:
   assets:
      - assets/images/
      - assets/city.json
+     - assets/home_page
   #  - images/a_dot_burr.jpeg
   #  - images/a_dot_ham.jpeg
 

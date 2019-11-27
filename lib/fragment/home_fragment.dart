@@ -35,18 +35,28 @@ class _HomeState extends State<HomeFragment>
   @override
   void initState() {
     super.initState();
+
     _scrollviewControllerorizontal.addListener(() {
-      if (_scrollviewControllerorizontal.offset >=
-          _scrollviewControllerorizontal.position.maxScrollExtent) {
-        startValue = _scrollviewControllerorizontal.position.maxScrollExtent;
+      endValue = _scrollviewControllerorizontal.position.maxScrollExtent;
+      if (_scrollviewControllerorizontal.offset >= endValue) {
+        startValue = endValue;
+        print("===========>");
+        print(startValue);
+        Provider.of<ChangeNotifiBean>(context).scrollStartValue = startValue;
       } else if (_scrollviewControllerorizontal.offset <= 0.0) {
         startValue = 0.0;
+        print("----------->");
+        print(startValue);
+        Provider.of<ChangeNotifiBean>(context).scrollStartValue = startValue;
       } else {
         startValue = _scrollviewControllerorizontal.offset;
+        print("+++++++++++>");
+        print(startValue);
+        Provider.of<ChangeNotifiBean>(context).scrollStartValue = startValue;
       }
-      endValue = _scrollviewControllerorizontal.position.maxScrollExtent;
-      Provider.of<ChangeNotifiBean>(context).scrollStartValue = startValue;
-      Provider.of<ChangeNotifiBean>(context).scrollEndValue = endValue;
+      if (Provider.of<ChangeNotifiBean>(context).scrollEndValue != endValue) {
+        Provider.of<ChangeNotifiBean>(context).scrollEndValue = endValue;
+      }
     });
   }
 
@@ -54,7 +64,9 @@ class _HomeState extends State<HomeFragment>
   Widget build(BuildContext context) {
     return SafeArea(
         child: FutureBuilder(future: _asyncMemoizer.runOnce(() async {
-      return await request('homePage');
+      return await Future.delayed(Duration(seconds: 3)).then((val) {
+        return DefaultAssetBundle.of(context).loadString("assets/home_page");
+      });
     }), builder: (context, val) {
       if (val.hasData) {
         HomePageBean homePageBean = new HomePageBean(val.data);
@@ -594,16 +606,12 @@ Widget gridType(
               height: ScreenUtil().setHeight(8),
             ),
             Consumer<ChangeNotifiBean>(builder: (context, model, _) {
-              return Padding(
-                padding: EdgeInsets.only(
-                    left: (model.scrollStartValue / model.scrollEndValue) *
-                        ScreenUtil().setWidth(20)),
-                child: Image.asset(
-                  "assets/images/kfc20190325_grid_line2.png",
-                  width: ScreenUtil().setWidth(48),
-                  height: ScreenUtil().setHeight(8),
-                ),
-              );
+              return Positioned(left:(model.scrollStartValue / model.scrollEndValue) *
+                  ScreenUtil().setWidth(20) ,child: Image.asset(
+                "assets/images/kfc20190325_grid_line2.png",
+                width: ScreenUtil().setWidth(48),
+                height: ScreenUtil().setHeight(8),
+              ));
             })
           ],
         ),
@@ -617,8 +625,8 @@ Widget gridType(
  */
 Widget takeawayMeal(BuildContext context) {
   return SliverToBoxAdapter(
-    child:GestureDetector(
-      child:  Container(
+    child: GestureDetector(
+      child: Container(
         margin: EdgeInsets.only(top: 40),
         child: Row(
           mainAxisAlignment: MainAxisAlignment.center,
@@ -637,7 +645,7 @@ Widget takeawayMeal(BuildContext context) {
           ],
         ),
       ),
-      onTap: (){
+      onTap: () {
         Navigator.push(
           context,
           MaterialPageRoute(builder: (context) => TakeAwayPage()),
@@ -795,15 +803,15 @@ Widget topTitle(BuildContext context) {
         CachedNetworkImage(
           imageUrl: "",
           placeholder: (context, url) => Image.asset(
-                "assets/images/kfc20190325_head.png",
-                width: ScreenUtil().setWidth(90),
-                height: ScreenUtil().setHeight(90),
-              ),
+            "assets/images/kfc20190325_head.png",
+            width: ScreenUtil().setWidth(90),
+            height: ScreenUtil().setHeight(90),
+          ),
           errorWidget: (context, url, error) => Image.asset(
-                "assets/images/kfc20190325_head.png",
-                width: ScreenUtil().setWidth(90),
-                height: ScreenUtil().setHeight(90),
-              ),
+            "assets/images/kfc20190325_head.png",
+            width: ScreenUtil().setWidth(90),
+            height: ScreenUtil().setHeight(90),
+          ),
         ),
         Padding(
           padding: EdgeInsets.only(left: 15),

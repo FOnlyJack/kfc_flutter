@@ -6,7 +6,6 @@ import 'package:kfc_flutter/bean/ChangeNotifiBean.dart';
 import 'activity/home_activity.dart';
 import 'package:provider/provider.dart';
 
-import 'activity/takeaway_page.dart';
 
 void main() {
   //注册路由 ....

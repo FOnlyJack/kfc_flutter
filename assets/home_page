@@ -1,0 +1,315 @@
+{
+  "data": {
+    "abdomen": {
+      "delivery": [
+        {
+          "id": 1,
+          "name": "K-咖啡馆",
+          "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%887.37.47.png"
+        },
+        {
+          "id": 2,
+          "name": "大神卡",
+          "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%887.39.45.png"
+        },
+        {
+          "id": 3,
+          "name": "周二会员日",
+          "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%887.40.41.png"
+        },
+        {
+          "id": 4,
+          "name": "会员量贩",
+          "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%887.42.41.png"
+        },
+        {
+          "id": 5,
+          "name": "每日秒杀",
+          "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%887.43.10.png"
+        },
+        {
+          "id": 6,
+          "name": "口袋炸鸡店",
+          "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%887.43.49.png"
+        },
+        {
+          "id": 7,
+          "name": "礼品卡",
+          "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%887.44.23.png"
+        },
+        {
+          "id": 8,
+          "name": "小书迷王国",
+          "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%887.45.02.png"
+        },
+        {
+          "id": 9,
+          "name": "K-Music",
+          "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%887.45.26.png"
+        },
+        {
+          "id": 10,
+          "name": "K-Pro",
+          "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%887.45.56.png"
+        },
+        {
+          "id": 11,
+          "name": "K-Run",
+          "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%887.46.26.png"
+        },
+        {
+          "id": 12,
+          "name": "附近门店",
+          "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%887.46.39.png"
+        },
+        {
+          "id": 13,
+          "name": "会员工艺",
+          "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%887.46.43.png"
+        },
+        {
+          "id": 14,
+          "name": "KI上校",
+          "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%887.46.47.png"
+        }
+      ],
+      "slide": [
+        {
+          "id": 1,
+          "name": "薯条大作战",
+          "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%887.49.18.png"
+        },
+        {
+          "id": 2,
+          "name": "大神卡",
+          "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%887.53.03.png"
+        },
+        {
+          "id": 3,
+          "name": "炸鸡啤酒",
+          "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%887.48.25.png"
+        }
+      ],
+      "delicious": {
+        "deliciousbaseimg": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%887.54.23.png",
+        "deliciousimgs": [
+          {
+            "id": 1,
+            "name": "美味尝鲜",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%887.54.54.png"
+          },
+          {
+            "id": 2,
+            "name": "美味尝鲜",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%887.59.04.png"
+          },
+          {
+            "id": 3,
+            "name": "美味尝鲜",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%887.59.37.png"
+          },
+          {
+            "id": 4,
+            "name": "美味尝鲜",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.00.01.png"
+          },
+          {
+            "id": 5,
+            "name": "美味尝鲜",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.00.01.png"
+          }
+        ]
+      },
+      "vip": {
+        "vipbaseimg": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.04.21.png",
+        "vipimgs": [
+          {
+            "id": 1,
+            "name": "WOW会员",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.05.54.png"
+          },
+          {
+            "id": 2,
+            "name": "WOW会员",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.06.26.png"
+          },
+          {
+            "id": 3,
+            "name": "WOW会员",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.09.07.png"
+          },
+          {
+            "id": 4,
+            "name": "WOW会员",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.09.52.png"
+          },
+          {
+            "id": 5,
+            "name": "WOW会员",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.11.29.png"
+          }
+        ]
+      },
+      "wholesale": {
+        "wholesalebaseimg": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.10.52.png",
+        "wholesaleimgs": [
+          {
+            "id": 1,
+            "name": "商城•会员量贩",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.11.29.png"
+          },
+          {
+            "id": 2,
+            "name": "商城•会员量贩",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.11.51.png"
+          },
+          {
+            "id": 3,
+            "name": "商城•会员量贩",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.12.53.png"
+          },
+          {
+            "id": 4,
+            "name": "商城•会员量贩",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.17.37.png"
+          },
+          {
+            "id": 5,
+            "name": "商城•会员量贩",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.17.20.png"
+          },
+          {
+            "id": 6,
+            "name": "商城•会员量贩",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.17.20.png"
+          }
+        ]
+      },
+      "enjoy": {
+        "enjoybaseimg": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.13.35.png",
+        "enjoyimgs": [
+          {
+            "id": 1,
+            "name": "商城•V享好物",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.16.10.png"
+          },
+          {
+            "id": 2,
+            "name": "商城•V享好物",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.15.48.png"
+          },
+          {
+            "id": 3,
+            "name": "商城•V享好物",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.21.43.png"
+          },
+          {
+            "id": 4,
+            "name": "商城•V享好物",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.21.49.png"
+          },
+          {
+            "id": 5,
+            "name": "商城•V享好物",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.18.13.png"
+          },
+          {
+            "id": 6,
+            "name": "商城•V享好物",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.18.13.png"
+          }
+        ]
+      },
+      "major": {
+        "majorbaseimg": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.18.40.png",
+        "majorimgs": [
+          {
+            "id": 1,
+            "name": "商城•大牌超值汇",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.19.30.png"
+          },
+          {
+            "id": 2,
+            "name": "商城•大牌超值汇",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.20.23.png"
+          },
+          {
+            "id": 3,
+            "name": "商城•大牌超值汇",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.20.28.png"
+          },
+          {
+            "id": 4,
+            "name": "商城•大牌超值汇",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.24.07.png"
+          },
+          {
+            "id": 5,
+            "name": "商城•大牌超值汇",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.24.01.png"
+          },
+          {
+            "id": 6,
+            "name": "商城•大牌超值汇",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.24.07.png"
+          }
+        ]
+      },
+      "K_MUSIC": {
+        "K_MUSICBaseImg": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.22.24.png",
+        "K_MUSICImgs": [
+          {
+            "id": 1,
+            "name": "K-Music",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.23.02.png"
+          },
+          {
+            "id": 2,
+            "name": "K-Music",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.23.07.png"
+          },
+          {
+            "id": 3,
+            "name": "K-Music",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.25.00.png"
+          },
+          {
+            "id": 4,
+            "name": "K-Music",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.25.04.png"
+          }
+        ]
+      },
+      "bookworm": {
+        "bookwormbaseimg": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.25.45.png",
+        "bookwormimgs": [
+          {
+            "id": 1,
+            "name": "小书迷王国",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.26.23.png"
+          },
+          {
+            "id": 2,
+            "name": "小书迷王国",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.26.27.png"
+          },
+          {
+            "id": 3,
+            "name": "小书迷王国",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.27.16.png"
+          },
+          {
+            "id": 4,
+            "name": "小书迷王国",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.27.19.png"
+          },
+          {
+            "id": 5,
+            "name": "小书迷王国",
+            "url": "https://raw.githubusercontent.com/FOnlyJack/Images/master/imgs/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-21%20%E4%B8%8B%E5%8D%888.27.19.png"
+          }
+        ]
+      }
+    }
+  }
+}
