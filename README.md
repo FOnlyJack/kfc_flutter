@@ -1,6 +1,6 @@
 ## 前言
 
-- Flutter版仿KFC客户端部分小练习。
+- Flutter版仿KFC客户端购物车页面。
 
 ##  APP下载
 
